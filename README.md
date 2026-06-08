@@ -63,11 +63,3 @@ This project is designed for a Flutter frontend integration.
 - GET `/api/invoices/` → Get invoices  
 - DELETE `/api/delete-invoice/<id>/` → Delete invoice  
 
----
-
-# ⚙️ Setup Instructions
-
-## 1️⃣ Clone project
-```bash
-git clone https://github.com/yourusername/invoice-backend.git
-cd invoice-backend
